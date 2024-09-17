@@ -1,0 +1,1 @@
+This is a simple project for password generation with GUI using tkinter. Generated password is automaticly copied to clipboard. It stores data in json and enables searching for website credentials if user provides valid website.
